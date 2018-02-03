@@ -1,0 +1,10 @@
+{
+	"id": "vong_converter",
+	"version": "1.0",
+	"description": "Vong Converter",
+	"categories": [
+		"translation"
+	],
+	"compatible_from": "2018.2",
+	"dependencies": []
+}
